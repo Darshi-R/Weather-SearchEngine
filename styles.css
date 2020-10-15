@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+  }
+  container {
+    width: 100%;
+  }
+  
+  h1 {
+    color: #ff8d1a;
+    font-family: arial, sans-serif;
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 28px;
+    margin: 0;
+    padding: 0px 0px 0px 20px !important;
+  }
+  h5 {
+    margin-left: 300px;
+  }
+  
+  .cardA {
+    padding: 20px;
+  }
+  .cardB {
+    position: fixed !important;
+    width: 650px;
+  }
+  .btn-current {
+    background-color: green;
+    border: green;
+  }
+  .week {
+    color: #ffc300;
+    margin-left: 25px;
+  }
+  .description {
+    color: #ffc300;
+    margin-left: 25px;
+  }
+  .degrees {
+    color: #00baad;
+    font-size: 86px;
+    font-weight: bold;
+    /* height: 19px; */
+    line-height: 1;
+    /* list-style: none; */
+    margin: 0 0 0 18px;
+    text-align: left;
+  }
+  .details {
+    color: #add45c;
+    margin-left: 350px;
+    margin-top: -80px;
+    font-weight: bold;
+  }
+  .shape1 {
+    color: #00baad;
+    font-size: 50px;
+    font-weight: 100;
+    margin-left: -12px;
+    margin-top: -10px;
+    /* margin-bottom: -60px; */
+  }
+  .units {
+    position: relative;
+    font-size: 19px;
+    top: -50px;
+  }
+  .author {
+    position: relative;
+    top: 200px;
+    left: 79px;
+  }
+  
